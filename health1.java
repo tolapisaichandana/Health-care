@@ -5,5 +5,6 @@ class A
       Sytem.out.println("Welcome ");
       System.out.println("hello world");
       System.out.println("GIT PRactice");
+      int n =20;
         }
   }
